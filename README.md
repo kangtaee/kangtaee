@@ -109,30 +109,6 @@ AI와 데이터를 활용해 문제를 분석하고,<br/>
 
 <br/>
 
-<h2 align="center">🚀 Projects</h2>
-
-<div align="center">
-
-<a href="https://github.com/kangtaee/Cosmetics_Project">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kangtaee&repo=Cosmetics_Project&theme=tokyonight&hide_border=true" />
-</a>
-
-<a href="https://github.com/kangtaee/KBO_Baseball_image_analytics">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kangtaee&repo=KBO_Baseball_image_analytics&theme=tokyonight&hide_border=true" />
-</a>
-
-<a href="https://github.com/kangtaee/LOL_Project">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kangtaee&repo=LOL_Project&theme=tokyonight&hide_border=true" />
-</a>
-
-<a href="https://github.com/kangtaee/ReadMate">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kangtaee&repo=ReadMate&theme=tokyonight&hide_border=true" />
-</a>
-
-</div>
-
-<br/>
-
 <h2 align="center">📫 Contact Me</h2>
 
 <div align="center">
@@ -151,6 +127,6 @@ AI와 데이터를 활용해 문제를 분석하고,<br/>
 
 <div align="center">
 
-### Build → Test → Debug → Document → Improve 🚀
+
 
 </div>
